@@ -7,7 +7,7 @@
     <img src="/images/logo_gif.gif" alt="M-QR_LOGO" width="200"/>
 </p>
 
-MxConsole is a versatile Discord bot designed to enhance your Minecraft server with advanced features, professional commands, and custom functionalities.
+An open-source QR code generator designed for businesses and personal use, featuring fast, customizable code creation for websites, contact info, Wi-Fi access, and more. With an intuitive interface and secure output, M-QR delivers professional-quality QR codes in just a few clicks.
 
 ## Table of Contents
 
@@ -17,59 +17,25 @@ MxConsole is a versatile Discord bot designed to enhance your Minecraft server w
 
 ## 🎗️ Overview
 
-MxConsole simplifies server management and enhances player interaction on your SriCraft Minecraft server. It offers a range of powerful features designed to streamline administrative tasks and improve community engagement.
+M-QR simplifies QR code generation and enhances digital engagement for businesses and personal use. It offers a range of powerful features designed to streamline the creation of custom QR codes, ensuring secure and professional results. Whether for websites, contact details, or Wi-Fi access, M-QR provides a fast, user-friendly solution for your QR code needs.
 
 ## 🚀 Features
 
-> These are the features that makes you wanna use our bot. Check it out!
+> These are the features that make M-QR stand out. Check it out!
 
-- **Interactive Commands:** Manage your server efficiently with intuitive slash commands.
-- **Dynamic Status Updates:** Keep players informed with customizable status rotations.
-- **Error Logging:** Monitor bot health with integrated error logging via Discord webhooks.
-- **Feedback System:** Collect player feedback effortlessly, complete with star ratings and staff mentions.
-- **Changelog Navigation:** Stay updated with streamlined access to server updates and changes.
+- **Custom QR Code Creation:** Generate personalized QR codes for websites, contact info, Wi-Fi access, and more.
+- **User-Friendly Interface:** User-Friendly Interface
+- **Secure Outputs:** nsure your QR codes are protected and professional, ready for both business and personal use.
+- **Quick Access:** Generate, download, and share QR codes in just a few clicks for seamless access.
+- **Multi-Format Support:** Export your QR codes in various formats for easy integration into your projects.
 
 ## 📖 Usage
 
-### Starting the Bot
+### Create QR Paste ur Links,
 
-- To start the bot, use the following command:
-
-## 📜 License
-
-> [!NOTE] 
-> MxConsole by [lordskidgod](https://github.com/lordskidgod/) is licensed under the MIT License. See [MIT License](LICENSE) for details.
-
-**TL;DR**
-
-- BY: Credit must be given to me, the creator. (lordskidgod)
-- NC: Only noncommercial use of your work is permitted.
-- SA: Adaptations must be shared under the same terms.
-
-![License](https://img.shields.io/github/license/lordskidgod/MxConsole)
+- To Create a QR, paste ur link:
 
 
+<h6 align="center">©️ M"Builds Projects </h6>
 
-For more details, please see the [LICENSE](LICENSE) file included with the source code.
-
-## 📧 Contact
-
-For support, questions, or any inquiries, feel free to contact us, reach out through:
-
-- **Email:** [support@sricraftmc.net](mailto:support@sricraftmc.net)
-- **Discord:** Join our [Discord server](https://discord.gg/T866cmAKBJ) for live assistance and updates.
-
-We value your feedback and are here to help you make the most out of MxConsole.
-
-### Notes:
-> [!NOTE]
-> - **Sections**: Each section (`Error Logging`, `Contributing`, `License`, `Contact`) is briefly described and linked in the Table of Contents for easy navigation.
-> - **Commands**: Each command is briefly summarized with its functionality. You can expand on each command further as needed.
-> - **Customization**: Tailor the content to fit your specific bot's commands, features, and project details.
-> - **Images**: You can integrate images into specific command explanations by including markdown image syntax (`![Command Name](path_to_image.png)`) where appropriate.
-  
-This structure provides a clear and organized overview of your Discord bot project, making it easier for users to understand its features, installation process, usage instructions, and how they can contribute or get > support. Adjust and expand on each section based on your project's specific needs and audience.
-
-<h6 align="center">©️ PROJECT | CN DEVELOPMENT UNIT</h6>
-
-<p align="center">© 2024 Ceylon Network Inc. Developed with ❤️ by lordskidgod.</p>
+<p align="center">© 2024 M"Builds Studios, All Rights reserved.  by V.Kavinda [MNKY].</p>
